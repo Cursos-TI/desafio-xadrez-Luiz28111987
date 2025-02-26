@@ -6,7 +6,7 @@
 void movimentarBispo(int movimento){
     printf("Movimentacao do Bispo:\n");
     for (int bispo = 1; bispo <= movimento; bispo++) {
-        printf("Casa %d: Cima Direita\n", bispo);
+        printf("Casa %d: Cima, Direita\n", bispo);
     }
 
 }
